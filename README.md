@@ -1,5 +1,5 @@
 # News
-### A simple iOS app that displays news fetch from NewsAPI.
+### An iOS app that displays news fetch from NewsAPI.
 
 ### Get the current top headlines and be updated.
 <img width="546" alt="Screenshot 2022-05-12 at 9 47 30 PM" src="https://user-images.githubusercontent.com/66007960/168121794-f6fe8d56-c67d-4756-a7b5-9535ed8bf47c.png">
